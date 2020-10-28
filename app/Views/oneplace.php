@@ -4,7 +4,7 @@
 		<title>American Pop Singers</title>
 	</head>
 	<body>
-		<h1>One Travel Destinations</h1>
+		<h1>American Pop Singers</h1>
 		<p><strong>ID:</strong> {id}</p>
 		<p><strong>Name:</strong> {name}</p>
 		<p><strong>Country:</strong> {Country}</p>
