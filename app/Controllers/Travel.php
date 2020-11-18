@@ -29,7 +29,7 @@ class Travel extends BaseController
    $template = [
         'table_open' => '<table cellpadding="5px">',
         'cell_start' => '<td style="border: 1px solid #dddddd;">', 
-        'row_alt_start' => '<tr style="background-color:#dddddd">',
+        'row_alt_start' => '<tr style="background-color:green">',
         ];
     $table->setTemplate($template);
     $fields = [
