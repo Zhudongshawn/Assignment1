@@ -1,5 +1,6 @@
 <?php
  namespace App\Controllers;
+ 
  class Places extends \CodeIgniter\Controller
  {
  public function index()

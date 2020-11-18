@@ -1,0 +1,9 @@
+
+    [
+        {"id":"1","name":"Billie Eilish","Country":"A singer in America","image":"Billi.jpg","age":"18","height":"161","weight":"55","favorite food":"ice cream"},
+        {"id":"2","name":"Taylor Swift","Country":"A singer in America","image":"Taylor.jpg","age":"30","height":"180","weight":"60","favorite food":"cake"},
+        {"id":"3","name":"Troye Sivan","Country":"A singer in America","image":"Troye.jpg","age":"25","height":"174","weight":"50","favorite food":"cake"},
+        {"id":"4","name":"Ariana Grande","Country":"A singer in America","image":"Ariana.jpg","age":"27","height":"157","weight":"50","favorite food":"milk"},
+        {"id":"5","name":"Burno Mars","Country":"A singer in America","image":"Burno.jpg","age":"35","height":"165","weight":"70","favorite food":"apple"},
+        {"id":"6","name":"Lady Gaga","Country":"A singer in America","image":"Lady.jpg","age":"34","height":"157","weight":"70","favorite food":"banana"}
+    ]
