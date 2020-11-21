@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://dgpt4711.local';
+	public $baseURL = 'http://dgpt4711.local/Heroes';
 
 	/*
 	|--------------------------------------------------------------------------

@@ -1,7 +1,7 @@
 <?php
 namespace App\Controllers;
 
-class Travel extends BaseController
+class Heroes extends BaseController
 {
     public function index()
     {
@@ -20,7 +20,7 @@ class Travel extends BaseController
     
     foreach ($records as $record) {
     
-    $nameLink = anchor("travel/showme/$record->id",$record->name);
+    $nameLink = anchor("Heroes/showme/$record->id",$record->name);
     $table->addRow($record->name,'<img src="/image/'.$record->image.'">',$nameLink);
     
     }   
